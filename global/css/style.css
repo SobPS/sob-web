@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'jenshin';
+  src: url(/global/fonts/jenshin.woff2) format('woff2');
+}
+
+.jenshin {
+  color: #f8e36b;
+  font-family: genshin;
+}
