@@ -12,7 +12,8 @@
   <h2>ToDo</h2>
 
 - [x] Make repo
-- [ ] Get a working deployment
+- [x] Get a working deployment
+- [x] Jenshin font works now
 - [ ] React integration
 - [ ] Much more
 - [ ] ?
