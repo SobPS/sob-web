@@ -14,6 +14,7 @@
 - [x] Make repo
 - [x] Get a working deployment
 - [x] Jenshin font works now
+- [ ] Jenshin color text generator and visualizer
 - [ ] React integration
 - [ ] Much more
 - [ ] ?
