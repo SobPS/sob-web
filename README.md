@@ -10,4 +10,5 @@
 - [x] Get a working deployment
 - [x] Jenshin font works now
 - [ ] ~~React~~ **Bootstrap** integration
+- [ ] jenshin text visualizer
 - [ ] Mek mor ToDos 🥺
