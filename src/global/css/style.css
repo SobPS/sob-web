@@ -3,7 +3,11 @@
   src: url(/global/fonts/Genshin-Font.woff2) format('woff2');
 }
 
-.jenshin {
+.styled, .jenshin {
   color: #f8e36b;
   font-family: jenshin;
+}
+
+p {
+  font-size: 24px;
 }
